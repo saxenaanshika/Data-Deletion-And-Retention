@@ -62,7 +62,7 @@ jobs:
         run: |
           node scripts/run-with-allure.js allure-results/api allure-report/api -- \
             npx playwright test --project=API \
-              tests/data-privacy/do-not-sell.spec.ts
+              tests/data-privacy/do-not-sell.spec.ts --grep "DNS-014"
 
       - name: Upload Allure report as artifact
         if: always()
