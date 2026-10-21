@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","60021","POST DNS-014: missing lastName is accepted by API — returns 201","API","2026-10-21","broken","2026-10-21","Do Not Sell (DSAR_DONOTSELL) API Tests","data-privacy/do-not-sell.spec.ts","",""

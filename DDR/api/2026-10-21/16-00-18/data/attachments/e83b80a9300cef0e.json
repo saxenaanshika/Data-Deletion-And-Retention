@@ -1,0 +1,13 @@
+{
+  "data": {
+    "type": "dataPrivacy",
+    "attributes": {
+      "payload": {
+        "email": "eues05012022152412@yopmail.com",
+        "dsarRequestId": "DNS-014-1792598226859",
+        "createdBy": "api-automation",
+        "requestType": "DSAR_DONOTSELL"
+      }
+    }
+  }
+}
