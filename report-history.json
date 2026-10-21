@@ -1,0 +1,15 @@
+[
+  {
+    "application": "DDR",
+    "suite": "API",
+    "executionDate": "2026-10-21",
+    "executionTime": "15-47-28",
+    "environment": "QA",
+    "totalTests": 37,
+    "passed": 0,
+    "failed": 4,
+    "passPercentage": "0.00",
+    "duration": "0 mins",
+    "reportUrl": "DDR/api/2026-10-21/15-47-28/"
+  }
+]
